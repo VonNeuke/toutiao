@@ -15,7 +15,7 @@ import java.util.List;
  */
 @Mapper
 @Repository
-//写到xml文件中
+//写到xml文件中121212
 public interface CommentDAO {
 
     String TABLE_NAME = " comment ";

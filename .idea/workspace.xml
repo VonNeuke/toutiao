@@ -369,7 +369,7 @@
     <property name="SearchEverywhereHistoryKey" value="MimeMessageHelper&#9;null&#9;null&#10;InitializingBean&#9;PSI&#9;JAVA://org.springframework.beans.factory.InitializingBean&#10;invokeInitMethods&#9;PSI&#9;JAVA://org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory#invokeInitMethods" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540107345967" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540107356443" />
     <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
     <property name="last_opened_file_path" value="H:/新建文件夹/mail-1.4.7.jar!/" />
     <property name="project.structure.last.edited" value="Libraries" />
